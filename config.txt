@@ -1,0 +1,3 @@
+Environment=Development
+Application=GitSampleProject
+Version=1.0
